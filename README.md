@@ -1,10 +1,11 @@
 # Rock-Paper-Scissor
-じゃんけんゲーム
+<h1>じゃんけんゲーム</h1>
 
-#お試ししたい方は
+<h2>お試ししたい方は</h2>
 https://upcolor.weblike.jp/Rock-Paper-Scissor/RPS.html
+<br>
 
-#Languages-used
+<h2>Languages-used</h2>
 Javascript
 Html
 Css

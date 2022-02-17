@@ -6,6 +6,6 @@ https://upcolor.weblike.jp/Rock-Paper-Scissor/RPS.html
 <br>
 
 <h2>Languages-used</h2>
-Javascript
-Html
-Css
+<ul>Javascript</ul>
+<ul>Html</ul>
+<ul>Css</ul>
